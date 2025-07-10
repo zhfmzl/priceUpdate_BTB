@@ -8,6 +8,7 @@
     "dotenv": "^16.5.0",
     "hangul-tools": "^0.1.4",
     "mongoose": "^8.14.2",
+    "p-limit": "^6.2.0",
     "playwright-core": "^1.52.0"
   }
 }
